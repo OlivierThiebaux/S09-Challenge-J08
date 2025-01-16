@@ -13,3 +13,4 @@
             with:
               fetch-depth: 1
           - uses: ./
+					
